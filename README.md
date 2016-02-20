@@ -8,7 +8,7 @@ JSON documents that you can find in the JSON directory.
 ```
 CallingCountryCode.json
 ```
-> Include the calling and country code.
+> It includes the calling and country code.
 
 The field that you can find inside of this JSON are:
 * **Name** => name of the country
