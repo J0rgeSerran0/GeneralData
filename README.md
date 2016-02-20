@@ -10,7 +10,7 @@ CallingCountryCode.json
 ```
 > It includes the calling and country code for each country.
 
-The field that you can find inside of this JSON are:
+The fields that you can find inside of this JSON are:
 * **Name** => name of the country
 * **Code** (alpha2 code) => [additional information][alpha2Url]
 * **CallingCode** => calling code of the country
